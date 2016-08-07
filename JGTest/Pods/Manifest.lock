@@ -1,0 +1,10 @@
+PODS:
+  - JPush-iOS-SDK (2.1.8)
+
+DEPENDENCIES:
+  - JPush-iOS-SDK (~> 2.1.8)
+
+SPEC CHECKSUMS:
+  JPush-iOS-SDK: ea5761841ba9beb7e9dab7523c5e6bfe06a48995
+
+COCOAPODS: 0.39.0
